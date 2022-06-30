@@ -1,4 +1,4 @@
-//prog to print value of a twice
+//prog to print value  twice
 #include<iostream>
 using namespace std;
 
