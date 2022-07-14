@@ -1,4 +1,4 @@
-//to find area of circle
+//Program to find area of circle
 #include<iostream>
 #define PI 3.14
 using namespace std;
