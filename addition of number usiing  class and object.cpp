@@ -1,4 +1,4 @@
-//program showing the concept of class and object!!
+//Addition of a number using class and object!!
 #include<iostream>
 using namespace std;
 class arithmatic {
