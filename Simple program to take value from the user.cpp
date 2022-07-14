@@ -1,4 +1,4 @@
-//practice program to o take value from the user
+//practice program to take value from the user
 #include<iostream>
 using namespace std;
 int main()
