@@ -1,4 +1,4 @@
-// program to understand the concept of friend function 
+//program to understand the concept of friend function 
 
 #include<iostream>
 using namespace std ;
