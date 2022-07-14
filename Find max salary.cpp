@@ -1,4 +1,4 @@
-//program for maximum num!!
+//program for maximum Salary!!
 #include<iostream>
 using namespace std;
 int size,i;//globally variable declaration!!
