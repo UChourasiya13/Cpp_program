@@ -1,4 +1,4 @@
-//program to understand the of multiple inheritence!!
+//program to understand the  concept of multiple inheritence!!
 
 #include<iostream>
 using namespace std ;
